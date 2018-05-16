@@ -1,0 +1,30 @@
+.icon-Layer-32 {
+  background: url(sprite.png) 0 0;
+  width: 43px;
+  height: 42px;
+}
+.icon-Layer-33 {
+  background: url(sprite.png) -70px 0;
+  width: 70px;
+  height: 101px;
+}
+.icon-Layer-34 {
+  background: url(sprite.png) -140px 0;
+  width: 70px;
+  height: 101px;
+}
+.icon-Layer-36 {
+  background: url(sprite.png) 0 -101px;
+  width: 70px;
+  height: 101px;
+}
+.icon-Layer-37 {
+  background: url(sprite.png) -70px -101px;
+  width: 70px;
+  height: 101px;
+}
+.icon-Layer-38 {
+  background: url(sprite.png) -140px -101px;
+  width: 70px;
+  height: 101px;
+}
